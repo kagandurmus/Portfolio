@@ -138,10 +138,10 @@ const Hero = () => {
         
         <div className="mb-8 space-y-3">
           <p className="text-2xl md:text-3xl text-transparent bg-clip-text bg-gradient-to-r from-blue-900 via-blue-700 to-blue-900 font-medium animate-fade-in-up" style={{ animationDelay: '0.2s' }}>
-            Full-Stack Developer & ML Specialist
+            Data Analyst & AI Engineer 
           </p>
           <p className="text-xl md:text-2xl text-blue-800 font-light animate-fade-in-up" style={{ animationDelay: '0.3s' }}>
-            Chief Financial Officer | AI Researcher
+            AI Researcher
           </p>
           <div className="flex items-center justify-center gap-3 text-sm text-gray-600 animate-fade-in-up" style={{ animationDelay: '0.4s' }}>
             <span className="flex items-center gap-1">
